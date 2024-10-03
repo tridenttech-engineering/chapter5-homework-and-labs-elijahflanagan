@@ -1,5 +1,5 @@
 //hw5-12.cpp - displays the total owed
-//Created/revised by <your name> on <current date>
+//Created/revised by <Elijah Flanagan> on <10/2/2024>
 
 #include <iostream>
 #include <iomanip>
